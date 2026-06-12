@@ -1,19 +1,39 @@
-<h1 align="center">Hi 👋, I'm Thiruna Samarasinghe</h1>
+<div align="center">
 
-<h3 align="center">Software Engineering Intern • Full-Stack Engineer • Software Engineer</h3>
+# Hi 👋, I'm Thiruna Samarasinghe
+### 🚀 Software Engineering Intern | Software Engineer
 
-<p align="center">
-Designing in the morning and building at night with coffee.
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
-<p align="center">
-Building scalable web applications with React, Node.js, TypeScript, PostgreSQL, and modern cloud technologies.
-</p>
+<img src="https://digitalocean.com" width="120" alt="Coding GIF" />
 
-<p align="center">
-4+ years of experience developing full-stack applications, REST APIs, real-time systems, and business solutions.
-</p>
+*"Designing in the morning and building at night with coffee."* ☕
 
-<p align="center">
-<a href="https://linkedin.com/in/tsamarasingha">LinkedIn</a>
-</p>
+---
+
+### 🛠️ Tech Stack & Tools
+
+🚀 **Frontend Development**
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+⚙️ **Backend & Databases**
+![Node.js](https://shields.io)
+![Express](https://shields.io)
+![PostgreSQL](https://shields.io)
+
+☁️ **DevOps & Tools**
+![Git](https://shields.io)
+![AWS](https://shields.io)
+![Docker](https://shields.io)
+
+---
+
+### 📈 About Me
+💼 **4+ years of experience** developing full-stack applications and real-time systems.
+🔌 Expert in designing robust **REST APIs** and business automation solutions.
+☁️ Passionate about modern **cloud technologies** and scalable architectures.
+
+</div>
