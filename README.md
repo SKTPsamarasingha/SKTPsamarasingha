@@ -1,44 +1,34 @@
-<h1 align="center">Hi 👋, I'm Thiruna Samarasinghe</h1>
+<div align="center">
 
-<p align="center">
-Software Engineering Intern • Full-Stack Engineer
-</p>
+# Hi 👋, I'm Thiruna Samarasinghe
 
-<p align="center">
+### Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Building+Scalable+Web+Applications;Learning+AWS+and+Cloud+Architecture;Exploring+AI+and+Distributed+Systems" alt="Typing SVG" />
+
+<p>
 Designing in the morning and building at night with coffee.
 </p>
 
-<p align="center">
+<p>
 Building scalable web applications using React, Node.js, TypeScript, PostgreSQL, and modern cloud-native development practices.
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/tsamarasingha">LinkedIn</a>
-</p>
+<a href="https://linkedin.com/in/tsamarasingha">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
 
-<h1 align="center">Hi 👋, I'm Thiruna Samarasinghe</h1>
+<a href="https://github.com/SKTPsamarasingha">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
 
-<p align="center">
-Software Engineering Intern • Full-Stack Engineer
-</p>
-
-<p align="center">
-Designing in the morning and building at night with coffee.
-</p>
-
-<p align="center">
-Building scalable web applications using React, Node.js, TypeScript, PostgreSQL, and modern cloud-native development practices.
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/tsamarasingha">LinkedIn</a>
-</p>
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Full-Stack Engineer focused on building scalable web applications, REST APIs, authentication systems, and real-time experiences.
+I'm a Software Engineer focused on building scalable web applications, REST APIs, authentication systems, and real-time experiences.
 
 My interests span SaaS products, e-commerce platforms, AI-powered applications, and distributed systems. I enjoy taking products from concept to deployment while balancing user experience, performance, and maintainability.
 
@@ -48,27 +38,47 @@ My interests span SaaS products, e-commerce platforms, AI-powered applications, 
 
 ### Languages
 
-JavaScript • TypeScript • Python • Java • C# • PHP • HTML5 • CSS3
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
 ### Frontend
 
-React.js • TanStack Query • Tailwind CSS • Motion • GSAP • jQuery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge)
+![Motion](https://img.shields.io/badge/Motion-black?style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 
 ### Backend
 
-Node.js • Express.js • REST APIs • JWT • OAuth 2.0 • Socket.IO • WebRTC • Prisma ORM • Joi
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=jsonwebtokens)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma)
 
 ### Databases
 
-PostgreSQL • MySQL • MongoDB • Redis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-### Testing
+### Tools
 
-Vitest • Jest
-
-### Tools & DevOps
-
-Git • GitHub • Docker • Postman
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest)
 
 ---
 
@@ -95,13 +105,13 @@ Git • GitHub • Docker • Postman
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKTPsamarasingha&show_icons=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKTPsamarasingha&layout=compact" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKTPsamarasingha&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKTPsamarasingha&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
